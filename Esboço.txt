@@ -1,0 +1,8 @@
+
+Tarefa 1 = Printar na tela (Opções voto)
+
+Tarefa 2 = Ler dados do teclado (voto)
+
+Tarefa 3 = Criptografar os dados e embaralhar a contagem
+ 
+Tarefa 4 = Mostra o resultado (Essa tarefa so executa dps de contabilizar 5 votos)
